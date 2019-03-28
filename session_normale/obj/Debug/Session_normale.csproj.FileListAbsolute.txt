@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\youdom\TP_SQL_ADO\Session_normale\Session_normale\bin\Debug\Session_normale.exe.config
+C:\Users\HP\Documents\youdom\TP_SQL_ADO\Session_normale\Session_normale\bin\Debug\Session_normale.exe
+C:\Users\HP\Documents\youdom\TP_SQL_ADO\Session_normale\Session_normale\bin\Debug\Session_normale.pdb
+C:\Users\HP\Documents\youdom\TP_SQL_ADO\Session_normale\Session_normale\obj\Debug\Session_normale.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\youdom\TP_SQL_ADO\Session_normale\Session_normale\obj\Debug\Session_normale.exe
+C:\Users\HP\Documents\youdom\TP_SQL_ADO\Session_normale\Session_normale\obj\Debug\Session_normale.pdb
+C:\Users\HP\Documents\youdom\TP_SQL_ADO\3763\Session_normale\bin\Debug\Session_normale.exe.config
+C:\Users\HP\Documents\youdom\TP_SQL_ADO\3763\Session_normale\obj\Debug\Session_normale.exe
+C:\Users\HP\Documents\youdom\TP_SQL_ADO\3763\Session_normale\obj\Debug\Session_normale.pdb
